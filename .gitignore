@@ -1,0 +1,5 @@
+#for version control with git task
+/ecourses_vc-with-git/*.db
+/ecourses_vc-with-git/*.log
+/ecourses_vc-with-git/target
+/ecourses_vc-with-git/bin
